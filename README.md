@@ -115,8 +115,6 @@ Use .streamlit/secrets.toml.example as a template for local secrets and Streamli
 
 ## Notes
 
-- The lecture-note implementation is mapped in docs/pdf_code_map.md.
-- Extracted PDF text used for organization is in docs/pdf_extracted_pages.txt.
 - This project is intended for academic and educational use.
 
 
